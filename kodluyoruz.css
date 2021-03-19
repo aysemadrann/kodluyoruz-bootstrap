@@ -1,0 +1,40 @@
+.text-white{
+    color: white;
+}
+.text-red{
+    color: red;
+}
+.text-center{
+    text-align: center;
+    margin-top: 5%;
+}
+.text-size{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bg-color{
+    background-color:#E9ECEF ;
+}
+.text-font{
+    font-size: 20px;
+    text-align: center;
+}
+.text-align{
+    text-align: center;
+    list-style-position: inside;
+}
+.text-margin{
+    text-align: center;
+    margin-top: 10px;
+}
+.br-none{
+    border: none;
+}
+.align{
+    text-align: center;
+    margin-top: 10px;
+}
+.font{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
